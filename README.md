@@ -1,4 +1,6 @@
-# First for Juuso Alho
+# Foo Bar Algorithm
+
+[![Build Status](https://travis-ci.org/fosco-maestro/Foo-Bar-Algorithm.svg)](https://travis-ci.org/fosco-maestro/Foo-Bar-Algorithm)
 
 Foo Bar algorithm in recursion implementation.
 

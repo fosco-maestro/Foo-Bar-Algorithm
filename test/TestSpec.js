@@ -1,8 +1,8 @@
 var should = require('should'),
-    First = require('../lib/first.js');
+    FooBar = require('../lib/foo-bar.js');
 
 describe("FooBar Algorithm", function() {
-    var first = new First();
+    var first = new FooBar();
 
     it("should be equal", function() {
         var expected = '1,foo,bar,foo,5,foo bar,7',
